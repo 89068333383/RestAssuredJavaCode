@@ -1,8 +1,10 @@
 import io.restassured.RestAssured;
+import io.restassured.path.json.JsonPath;
+import io.restassured.response.Response;
 import org.json.JSONObject;
 
 import static io.restassured.RestAssured.*;
-import static io.restassured.module.jsv.JsonSchemaValidator.matchesJsonSchemaInClasspath;
+import static org.hamcrest.Matchers.equalTo;
 
 public class TestOne {
     public static void main(String[] args) {
@@ -51,15 +53,19 @@ public class TestOne {
 
         System.out.println(requestParams.toString());
 
+
         // Выполнение запроса с базовой авторизацией
-        given().
-                header("Content-Type", "application/json"). // Установка заголовка Content-Type
-                body(requestParams.toString()). // Установка тела запроса
-                when().
-                    post().
-                then().
-                    statusCode(200).
-                    body(matchesJsonSchemaInClasspath(jsonSchemaPath));
+        Response res =
+                given().
+                        header("Content-Type", "application/json"). // Установка заголовка Content-Type
+                        body(requestParams.toString()). // Установка тела запроса
+                        when().
+                            post().
+                        then().
+                            statusCode(200).
+                            body("user._id", equalTo(1005)).
+                        extract().response();
+        System.out.println(res.asString());
     }
 }
 
