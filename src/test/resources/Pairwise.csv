@@ -1,0 +1,45 @@
+1,anyValueInLatinWithSpecialCharacters,,anyValueInLatin_email,,ЛюбоеЗначениеНаКириллице,null,false,12.11.24,active_search
+2,anyValueInLatinWithSpecialCharacters,anyValueInLatin,,ЛюбоеЗначениеНаКириллице,,admin,true,01.01.30,on_project
+3,anyValueInLatinWithSpecialCharacters,anyValueInLatinWithSpecialCharacters,anyValueInLatin@email.com,!@#$% ,anyValueInLatin12345,null,null,12.11.24,-
+4,anyValueInLatinWithSpecialCharacters,,anyValueInLatin_email,,ЛюбоеЗначениеНаКириллице,user,true,12.12.12,active_search
+5,anyValueInLatinWithSpecialCharacters,ЛюбоеЗначениеНаКириллице,ЛюбоеЗначениеНаКириллице,anyValueInLatin,!@#$% ,null,false,,pause_search
+6,anyValueInLatinWithSpecialCharacters,anyValueInLatin,,ЛюбоеЗначениеНаКириллице,,user,null,25.08.2024,on_project
+7,,,ЛюбоеЗначениеНаКириллице,ЛюбоеЗначениеНаКириллице,anyValueInLatin12345,user,false,25.08.2024,-
+8,,anyValueInLatin,anyValueInLatin@email.com,,!@#$% ,user,true,сегодняшняя дата,pause_search
+9,,anyValueInLatinWithSpecialCharacters,anyValueInLatin_email,anyValueInLatin,,admin,false,25.08.2024,on_project
+10,,,ЛюбоеЗначениеНаКириллице,ЛюбоеЗначениеНаКириллице,anyValueInLatin12345,null,null,01.01.30,-
+11,,ЛюбоеЗначениеНаКириллице,,!@#$% ,ЛюбоеЗначениеНаКириллице,user,true,12.11.24,active_search
+12,,anyValueInLatin,anyValueInLatin@email.com,,!@#$% ,admin,null,12.12.12,pause_search
+13,,anyValueInLatinWithSpecialCharacters,anyValueInLatin_email,anyValueInLatin,,null,true,,on_project
+14,ЛюбоеЗначениеНаКириллице,ЛюбоеЗначениеНаКириллице,anyValueInLatin@email.com,anyValueInLatin,anyValueInLatin12345,user,null,,-
+15,ЛюбоеЗначениеНаКириллице,anyValueInLatin,anyValueInLatin_email,ЛюбоеЗначениеНаКириллице,ЛюбоеЗначениеНаКириллице,admin,true,25.08.2024,active_search
+16,ЛюбоеЗначениеНаКириллице,anyValueInLatin,ЛюбоеЗначениеНаКириллице,!@#$% ,!@#$% ,null,false,01.01.30,pause_search
+17,ЛюбоеЗначениеНаКириллице,,,,,user,null,12.11.24,on_project
+18,ЛюбоеЗначениеНаКириллице,ЛюбоеЗначениеНаКириллице,anyValueInLatin@email.com,anyValueInLatin,anyValueInLatin12345,null,true,25.08.2024,-
+19,ЛюбоеЗначениеНаКириллице,anyValueInLatin,anyValueInLatin_email,ЛюбоеЗначениеНаКириллице,ЛюбоеЗначениеНаКириллице,user,false,01.01.30,active_search
+20,ЛюбоеЗначениеНаКириллице,anyValueInLatinWithSpecialCharacters,ЛюбоеЗначениеНаКириллице,!@#$% ,!@#$% ,admin,null,12.11.24,pause_search
+21,ЛюбоеЗначениеНаКириллице,,,,,null,true,12.12.12,on_project
+22,anyValueInLatin ,anyValueInLatin,ЛюбоеЗначениеНаКириллице,,anyValueInLatin12345,user,null,12.12.12,-
+23,anyValueInLatin ,anyValueInLatinWithSpecialCharacters,,anyValueInLatin,ЛюбоеЗначениеНаКириллице,admin,true,null,active_search
+24,anyValueInLatin ,,anyValueInLatin@email.com,ЛюбоеЗначениеНаКириллице,!@#$% ,null,null,25.08.2024,pause_search
+25,anyValueInLatin ,ЛюбоеЗначениеНаКириллице,anyValueInLatin_email,!@#$% ,,user,true,01.01.30,on_project
+26,anyValueInLatin ,anyValueInLatin,ЛюбоеЗначениеНаКириллице,,anyValueInLatin12345,admin,false,12.11.24,-
+27,anyValueInLatin ,anyValueInLatinWithSpecialCharacters,,anyValueInLatin,ЛюбоеЗначениеНаКириллице,null,null,25.08.2024,active_search
+28,anyValueInLatin ,,anyValueInLatin@email.com,ЛюбоеЗначениеНаКириллице,!@#$% ,user,true,01.01.30,pause_search
+29,anyValueInLatin ,ЛюбоеЗначениеНаКириллице,anyValueInLatin_email,!@#$% ,,null,false,12.11.24,on_project
+30,anyValueInLatinWithSpecialCharacters,anyValueInLatinWithSpecialCharacters,anyValueInLatin@email.com,!@#$% ,anyValueInLatin12345,null,true,12.11.24,-
+31,anyValueInLatinWithSpecialCharacters,,anyValueInLatin_email,,ЛюбоеЗначениеНаКириллице,user,false,12.12.12,active_search
+32,anyValueInLatinWithSpecialCharacters,ЛюбоеЗначениеНаКириллице,ЛюбоеЗначениеНаКириллице,vanyaIvanov,!@#$% ,null,null,,pause_search
+33,anyValueInLatinWithSpecialCharacters,anyValueInLatin,,ЛюбоеЗначениеНаКириллице,,user,true,25.08.2024,on_project
+34,anyValueInLatinWithSpecialCharacters,anyValueInLatinWithSpecialCharacters,anyValueInLatin@email.com,!@#$% ,anyValueInLatin12345,admin,null,01.01.30,-
+35,anyValueInLatinWithSpecialCharacters,,anyValueInLatin_email,,ЛюбоеЗначениеНаКириллице,null,true,12.11.24,active_search
+36,anyValueInLatinWithSpecialCharacters,ЛюбоеЗначениеНаКириллице,ЛюбоеЗначениеНаКириллице,anyValueInLatin,!@#$% ,user,false,25.08.2024,pause_search
+37,anyValueInLatinWithSpecialCharacters,anyValueInLatin,,ЛюбоеЗначениеНаКириллице,,admin,null,01.01.30,on_project
+38,,,ЛюбоеЗначениеНаКириллице,ЛюбоеЗначениеНаКириллице,anyValueInLatin12345,null,false,01.01.30,-
+39,,ЛюбоеЗначениеНаКириллице,,!@#$% ,ЛюбоеЗначениеНаКириллице,user,null,12.11.24,active_search
+40,,anyValueInLatin,anyValueInLatin@email.com,,!@#$% ,admin,true,12.12.12,pause_search
+41,,anyValueInLatinWithSpecialCharacters,anyValueInLatin_email,anyValueInLatin,,null,false,,on_project
+42,,,ЛюбоеЗначениеНаКириллице,ЛюбоеЗначениеНаКириллице,anyValueInLatin12345,user,null,25.08.2024,-
+43,,ЛюбоеЗначениеНаКириллице,,!@#$% ,ЛюбоеЗначениеНаКириллице,null,true,01.01.30,active_search
+44,,anyValueInLatin,anyValueInLatin@email.com,,!@#$% ,user,null,12.11.24,pause_search
+45,,anyValueInLatinWithSpecialCharacters,anyValueInLatin_email,anyValueInLatin,,admin,true,25.08.2024,on_project

@@ -1,0 +1,13 @@
+{
+  "customData": {
+    "isCV": true,
+    "salesOpenTime": "2024-09-27T19:00:00.000Z",
+    "salesStatus": "active_search"
+  },
+  "first_name": "test",
+  "surname": "test",
+  "email": "test",
+  "username": "test",
+  "plain_password": "test",
+  "roles": "admin"
+}
