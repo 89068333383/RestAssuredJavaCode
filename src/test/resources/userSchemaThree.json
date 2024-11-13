@@ -1,0 +1,29 @@
+{
+  "data": {
+    "_id": 1005,
+    "quizes": [],
+    "__names": [
+      {
+        "name": "test2"
+      },
+      null
+    ],
+    "name": "test2",
+    "contributors": [],
+    "decliners": [],
+    "hints": [],
+    "additionalQuestionsArr": [],
+    "useCases": [],
+    "videos": [],
+    "facts": [],
+    "interviews": [],
+    "hashTags": [],
+    "shortAnswers": [],
+    "detailedAnswers": [],
+    "cd": "2024-09-26T12:29:58.814Z",
+    "isDuplicated": false,
+    "useCasesLength": 0,
+    "factsLength": 0,
+    "answerProgressCount": 0
+  }
+}

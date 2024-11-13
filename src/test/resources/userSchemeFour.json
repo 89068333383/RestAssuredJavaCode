@@ -1,0 +1,141 @@
+{
+  "data": {
+    "questionDB": {
+      "_id": 1006,
+      "quizes": [],
+      "__names": [
+        {
+          "name": "тест",
+          "type": ""
+        },
+        {
+          "name": "тест",
+          "type": null
+        }
+      ],
+      "name": "тест",
+      "contributors": [
+        {
+          "grade": 0,
+          "user": 1001,
+          "name": "undefined undefined",
+          "cd": 1727354244051
+        }
+      ],
+      "decliners": [],
+      "hints": [],
+      "additionalQuestionsArr": [],
+      "useCases": [
+        {
+          "name": "тест",
+          "desc": "тест"
+        }
+      ],
+      "videos": [],
+      "facts": [
+        {
+          "name": "тест",
+          "desc": "тест"
+        }
+      ],
+      "interviews": [],
+      "hashTags": [],
+      "shortAnswers": [],
+      "detailedAnswers": [],
+      "cd": "2024-09-26T12:34:14.118Z",
+      "isDuplicated": false,
+      "useCasesLength": 1,
+      "factsLength": 1,
+      "answerProgressCount": 3,
+      "__v": 3,
+      "quizCount": 1,
+      "lockData": {
+        "startCd": 1727354149835,
+        "cd": 1727354184793,
+        "user": 1001
+      },
+      "jsDetails": null,
+      "comment": "",
+      "type": "",
+      "title": "",
+      "answer": "тест тест",
+      "originalDuplicateId": null,
+      "owner": {
+        "grade": 0,
+        "user": 1001,
+        "name": "undefined undefined",
+        "cd": 1727354244050
+      },
+      "contributorsScore": 1
+    },
+    "versionDB": {
+      "source": "ThemeQuestion",
+      "sourceId": "1006",
+      "suggests": [],
+      "approvers": [],
+      "decliners": [],
+      "contributors": [
+        {
+          "grade": 0,
+          "user": 1001,
+          "name": "undefined undefined",
+          "cd": 1727354244053
+        }
+      ],
+      "prevApprovers": [],
+      "cd": "2024-09-26T12:37:24.012Z",
+      "_id": 1001,
+      "approveScore": 0,
+      "version": 1,
+      "subVersion": 0,
+      "patch": 0,
+      "versionStr": "1.0.0",
+      "versionSort": 1000000,
+      "name": "тест",
+      "dataStr": "{\"jsDetails\":\"\",\"comment\":\"\",\"quizes\":[],\"hints\":[],\"type\":\"\",\"videos\":[],\"name\":\"тест\",\"hashTags\":[],\"title\":\"\",\"answer\":\"тест тест\",\"facts\":[{\"name\":\"тест\",\"desc\":\"тест\"}],\"useCases\":[{\"name\":\"тест\",\"desc\":\"тест\"}],\"originalDuplicateId\":\"\",\"questionId\":\"1006\"}",
+      "letters": null,
+      "versionStrUniq": "1006__1.0.0",
+      "__v": 1,
+      "data": {
+        "jsDetails": "",
+        "comment": "",
+        "quizes": [],
+        "hints": [],
+        "type": "",
+        "videos": [],
+        "name": "тест",
+        "hashTags": [],
+        "title": "",
+        "answer": "тест тест",
+        "facts": [
+          {
+            "name": "тест",
+            "desc": "тест"
+          }
+        ],
+        "useCases": [
+          {
+            "name": "тест",
+            "desc": "тест"
+          }
+        ],
+        "originalDuplicateId": "",
+        "questionId": "1006"
+      },
+      "isLTS": true,
+      "owner": {
+        "grade": 0,
+        "user": 1001,
+        "name": "undefined undefined",
+        "cd": 1727354244052
+      },
+      "firstOwner": {
+        "grade": 0,
+        "user": 1001,
+        "name": "undefined undefined",
+        "cd": 1727354244052
+      },
+      "contributorsScore": 1
+    }
+  }
+}
